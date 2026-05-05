@@ -32,5 +32,11 @@
     "expiry": "",
     "device": "1777977511",
     "sid": "PREMIUMX"
+  },
+  "CAT": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
