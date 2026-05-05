@@ -3,12 +3,6 @@
     "version": "2.0",
     "script_name": "TESTING"
   },
-  "X": {
-    "password": "X",
-    "expiry": "",
-    "device": "",
-    "sid": "PREMIUMX"
-  },
   "DIABLO": {
     "password": "1",
     "expiry": "",
