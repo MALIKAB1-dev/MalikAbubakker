@@ -8,5 +8,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "DIABLO": {
+    "password": "1",
+    "expiry": "",
+    "device": "1777961089",
+    "sid": "PREMIUMX"
   }
 }
