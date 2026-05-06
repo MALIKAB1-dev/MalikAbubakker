@@ -56,5 +56,11 @@
     "expiry": "",
     "device": "1777078236",
     "sid": "PREMIUMX"
+  },
+  "YOEN": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
