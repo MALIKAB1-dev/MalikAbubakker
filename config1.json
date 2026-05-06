@@ -62,5 +62,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "SALEMS": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
