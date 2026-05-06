@@ -68,5 +68,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "MR": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
