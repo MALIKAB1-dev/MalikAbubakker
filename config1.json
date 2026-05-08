@@ -1,4 +1,10 @@
 {
+  "21": {
+    "password": "X",
+    "expiry": "",
+    "device": "1777288341",
+    "sid": "PREMIUMX"
+  },
   "config": {
     "version": "2.1",
     "script_name": "TESTING"
