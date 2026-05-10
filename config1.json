@@ -98,5 +98,11 @@
     "expiry": "",
     "device": "6664553345",
     "sid": "PREMIUMX"
+  },
+  "SILENT": {
+    "password": "X",
+    "expiry": "",
+    "device": "",
+    "sid": "SILENTX"
   }
 }
