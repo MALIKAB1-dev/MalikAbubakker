@@ -7,7 +7,10 @@
   },
   "config": {
     "version": "3.0",
-    "script_name": "TESTING"
+    "script_name": "TESTING",
+    "url": "",
+    "update_note": "",
+    "admin_contact": "@malikxcpm"
   },
   "DIABLO": {
     "password": "1",
