@@ -113,5 +113,11 @@
     "expiry": "",
     "device": "1778521891",
     "sid": "PREMIUMX"
+  },
+  "COBY": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
