@@ -1,8 +1,22 @@
 {
-  "config": {},
+  "config": {
+    "version": "1.0",
+    "script_name": "PREMIUMX CPM",
+    "script_id": "PREMIUMX",
+    "update_notes": [],
+    "force_update": false,
+    "kill_switch": false,
+    "kill_reason": "",
+    "maintenance": false,
+    "maintenance_msg": "",
+    "announcement": "",
+    "announce_type": "toast",
+    "admin_contact": "",
+    "admin_contact2": ""
+  },
   "X": {
     "password": "X",
-    "expiry": "LIFETIME",
+    "expiry": "lifetime",
     "device": "",
     "sid": "X",
     "plan": "vip",
