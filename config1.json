@@ -7,10 +7,20 @@
   },
   "config": {
     "version": "3.0",
-    "script_name": "TESTING",
+    "script_name": "MALIK X VIP",
     "url": "@malikabubakker",
     "update_note": "",
-    "admin_contact": "@malikxcpm"
+    "admin_contact": "@malikxcpm",
+    "script_id": "PREMIUMX",
+    "update_notes": [],
+    "force_update": false,
+    "kill_switch": false,
+    "kill_reason": "",
+    "maintenance": false,
+    "maintenance_msg": "",
+    "announcement": "",
+    "announce_type": "toast",
+    "admin_contact2": ""
   },
   "DIABLO": {
     "password": "1",
