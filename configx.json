@@ -3,7 +3,9 @@
     "version": "3.5",
     "script_name": "PREMIUMX CPM",
     "script_id": "PREMIUMX",
-    "update_notes": [],
+    "update_notes": [
+      "FIXED"
+    ],
     "force_update": false,
     "kill_switch": false,
     "kill_reason": "",
