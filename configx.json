@@ -1,0 +1,12 @@
+{
+  "config": {},
+  "X": {
+    "password": "X",
+    "expiry": "LIFETIME",
+    "device": "",
+    "sid": "X",
+    "plan": "vip",
+    "banned": false,
+    "max_devices": 1
+  }
+}
