@@ -147,5 +147,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "XZERO": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
