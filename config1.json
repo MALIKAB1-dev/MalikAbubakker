@@ -1,10 +1,4 @@
 {
-  "1": {
-    "password": "1",
-    "expiry": "",
-    "device": "",
-    "sid": "PREMIUMX"
-  },
   "21": {
     "password": "X",
     "expiry": "",
@@ -152,6 +146,12 @@
     "password": "1",
     "expiry": "",
     "device": "1779101606",
+    "sid": "PREMIUMX"
+  },
+  "XD": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
     "sid": "PREMIUMX"
   }
 }
