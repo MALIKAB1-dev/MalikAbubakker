@@ -159,5 +159,11 @@
     "expiry": "",
     "device": "1779423965",
     "sid": "PREMIUMX"
+  },
+  "T2LOCO": {
+    "password": "616981",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
