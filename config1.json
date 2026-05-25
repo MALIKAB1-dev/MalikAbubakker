@@ -165,5 +165,11 @@
     "expiry": "",
     "device": "1779592968",
     "sid": "PREMIUMX"
+  },
+  "HANZO": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
