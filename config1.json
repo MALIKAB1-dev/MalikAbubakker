@@ -177,5 +177,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "Soban": {
+    "password": "0987",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
