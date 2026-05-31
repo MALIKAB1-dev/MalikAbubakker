@@ -201,5 +201,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "COSA": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
