@@ -189,5 +189,11 @@
     "expiry": "",
     "device": "1777378309",
     "sid": "PREMIUMX"
+  },
+  "LION": {
+    "password": "X",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
