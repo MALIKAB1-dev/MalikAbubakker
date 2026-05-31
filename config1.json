@@ -183,5 +183,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "NORAH": {
+    "password": "1",
+    "expiry": "",
+    "device": "1777378309",
+    "sid": "PREMIUMX"
   }
 }
