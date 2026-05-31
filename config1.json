@@ -201,5 +201,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "CODIGOCERO": {
+    "password": "NK00100",
+    "expiry": "",
+    "device": "1776116743",
+    "sid": "PREMIUMX"
   }
 }
