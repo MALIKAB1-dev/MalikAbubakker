@@ -171,5 +171,11 @@
     "expiry": "",
     "device": "1769009443405138524",
     "sid": "PREMIUMX"
+  },
+  "LOKI": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
