@@ -211,7 +211,7 @@
   "TRIAL": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "🆔 Device",
     "sid": "PREMIUMX"
   }
 }
