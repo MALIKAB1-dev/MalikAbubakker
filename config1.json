@@ -207,11 +207,5 @@
     "expiry": "",
     "device": "1776116743",
     "sid": "PREMIUMX"
-  },
-  "TRIAL": {
-    "password": "1",
-    "expiry": "",
-    "device": "1775273323",
-    "sid": "PREMIUMX"
   }
 }
