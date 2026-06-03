@@ -231,5 +231,11 @@
     "expiry": "",
     "device": "1780421888",
     "sid": "PREMIUMX"
+  },
+  "Luyanda": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
