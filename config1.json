@@ -249,5 +249,11 @@
     "expiry": "05/08/2026",
     "device": "1780063474",
     "sid": "PREMIUMX"
+  },
+  "Deangelo": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
