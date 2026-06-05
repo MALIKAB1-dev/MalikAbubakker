@@ -255,5 +255,11 @@
     "expiry": "",
     "device": "1780598586",
     "sid": "PREMIUMX"
+  },
+  "KYNG": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
