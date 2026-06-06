@@ -261,5 +261,11 @@
     "expiry": "",
     "device": "1780768957",
     "sid": "PREMIUM2"
+  },
+  "AB1": {
+    "password": "1",
+    "expiry": "",
+    "device": "ONLYMALIKX",
+    "sid": "PREMIUM2"
   }
 }
