@@ -273,5 +273,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "MALIKX": {
+    "password": "1",
+    "expiry": "",
+    "device": "ONLYMALIKX",
+    "sid": "TURKISHX"
   }
 }
