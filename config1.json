@@ -273,5 +273,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "TRIAL": {
+    "password": "x",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
