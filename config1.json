@@ -297,5 +297,11 @@
     "expiry": "",
     "device": "1780893432",
     "sid": "PREMIUMX"
+  },
+  "HJ": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "TURKISHX"
   }
 }
