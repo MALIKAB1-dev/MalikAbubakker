@@ -291,5 +291,11 @@
     "expiry": "",
     "device": "1780882646",
     "sid": "PREMIUM2"
+  },
+  "CHIVOX": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
