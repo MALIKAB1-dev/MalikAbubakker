@@ -292,12 +292,6 @@
     "device": "1780882646",
     "sid": "PREMIUM2"
   },
-  "CHIVOX": {
-    "password": "1",
-    "expiry": "",
-    "device": "1780893432u",
-    "sid": "PREMIUMX"
-  },
   "c0mrade": {
     "password": "c0mrade014901",
     "expiry": "",
@@ -315,5 +309,11 @@
     "expiry": "",
     "device": "1780942723",
     "sid": "PREMIUM2"
+  },
+  "SikanCpmA": {
+    "password": "AurexiaSikanus",
+    "expiry": "",
+    "device": "1780893432u",
+    "sid": "PREMIUMX"
   }
 }
