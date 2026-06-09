@@ -315,5 +315,11 @@
     "expiry": "",
     "device": "1774490591",
     "sid": "PREMIUMX"
+  },
+  "WOLF": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
