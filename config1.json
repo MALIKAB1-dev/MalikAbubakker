@@ -333,5 +333,11 @@
     "expiry": "",
     "device": "1775062571",
     "sid": "PREMIUMX"
+  },
+  "KAIF": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
