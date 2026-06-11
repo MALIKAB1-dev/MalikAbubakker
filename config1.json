@@ -327,5 +327,11 @@
     "expiry": "",
     "device": "DEV_0_1781036998",
     "sid": "PREMIUMX"
+  },
+  "MOIZ": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
