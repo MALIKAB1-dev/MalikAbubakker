@@ -339,5 +339,11 @@
     "expiry": "",
     "device": "1768589725873238961",
     "sid": "PREMIUMX"
+  },
+  "MALOU": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
