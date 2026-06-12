@@ -351,5 +351,11 @@
     "expiry": "",
     "device": "DEV_0_1781289160",
     "sid": "PREMIUM2"
+  },
+  "SAMU": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
