@@ -345,5 +345,11 @@
     "expiry": "",
     "device": "1780944105",
     "sid": "PREMIUM2"
+  },
+  "PAUL": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
