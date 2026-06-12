@@ -349,7 +349,7 @@
   "PAUL": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1781289160",
     "sid": "PREMIUM2"
   }
 }
