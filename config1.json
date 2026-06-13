@@ -369,5 +369,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "ADDY": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
