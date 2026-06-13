@@ -363,5 +363,11 @@
     "expiry": "",
     "device": "DEV_0_1781326853",
     "sid": "PREMIUMX"
+  },
+  "KAROLINA": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
