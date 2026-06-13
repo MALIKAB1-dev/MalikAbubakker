@@ -373,7 +373,7 @@
   "ADDY": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1781364818",
     "sid": "PREMIUM2"
   }
 }
