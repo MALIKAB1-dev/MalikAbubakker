@@ -375,5 +375,11 @@
     "expiry": "",
     "device": "DEV_0_1781364818",
     "sid": "PREMIUM2"
+  },
+  "SUYUNBEK": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
