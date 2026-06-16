@@ -381,5 +381,11 @@
     "expiry": "16/08/2026",
     "device": "DEV_0_1781550880",
     "sid": "PREMIUMX"
+  },
+  "SON": {
+    "password": "GOKU",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
