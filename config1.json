@@ -391,7 +391,7 @@
   "AHMED": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "NOT BOUND ",
     "sid": "PREMIUM2"
   }
 }
