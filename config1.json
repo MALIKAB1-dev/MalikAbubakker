@@ -393,5 +393,11 @@
     "expiry": "",
     "device": "DEV_0_1781607272",
     "sid": "PREMIUMX"
+  },
+  "AHMED": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
