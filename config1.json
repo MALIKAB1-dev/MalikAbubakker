@@ -393,5 +393,11 @@
     "expiry": "",
     "device": "DEV_0_1781718119",
     "sid": "PREMIUM2"
+  },
+  "TRIAL2": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
