@@ -399,5 +399,11 @@
     "expiry": "",
     "device": "DEV_0_1781874800",
     "sid": "PREMIUMX"
+  },
+  "FARXOD": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
