@@ -411,5 +411,11 @@
     "expiry": "",
     "device": "DEV_0_1781814831",
     "sid": "PREMIUM2"
+  },
+  "HASEEB": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
