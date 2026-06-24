@@ -423,5 +423,11 @@
     "expiry": "",
     "device": "DEV_0_1782202924",
     "sid": "PREMIUMX"
+  },
+  "IMALAN": {
+    "password": "Alan06",
+    "expiry": "",
+    "device": "DEV_0_1781638272",
+    "sid": "PREMIUM2"
   }
 }
