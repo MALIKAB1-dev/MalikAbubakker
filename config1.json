@@ -423,5 +423,11 @@
     "expiry": "",
     "device": "DEV_0_1782202924",
     "sid": "PREMIUMX"
+  },
+  "AYAN": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
