@@ -447,5 +447,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUM2"
+  },
+  "REINIS": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
