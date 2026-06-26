@@ -435,5 +435,11 @@
     "expiry": "",
     "device": "DEV_0_1781638272",
     "sid": "PREMIUM2"
+  },
+  "DAVE": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
