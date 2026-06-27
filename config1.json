@@ -453,5 +453,11 @@
     "expiry": "",
     "device": "DEV_0_1782483757",
     "sid": "PREMIUM2"
+  },
+  "SON": {
+    "password": "GOKU",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
