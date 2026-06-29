@@ -373,7 +373,7 @@
   "KAROLINA": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "NOT BOUND ",
     "sid": "PREMIUMX"
   },
   "ADDY": {
