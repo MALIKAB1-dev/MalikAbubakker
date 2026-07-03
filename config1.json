@@ -112,12 +112,6 @@
     "device": "1776602526",
     "sid": "PREMIUMX"
   },
-  "LAZYSCRIPT2": {
-    "password": "EDWINBOSNA",
-    "expiry": "",
-    "device": "1780249177",
-    "sid": "PREMIUMX"
-  },
   "SILENT": {
     "password": "X",
     "expiry": "",
@@ -495,5 +489,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUM2"
+  },
+  "DZONIF10": {
+    "password": "BMWF10",
+    "expiry": "",
+    "device": "1780249177",
+    "sid": "PREMIUMX"
   }
 }
