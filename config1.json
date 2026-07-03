@@ -501,5 +501,11 @@
     "expiry": "",
     "device": "DEV_0_1783003459",
     "sid": "PREMIUMX"
+  },
+  "Jacob": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
