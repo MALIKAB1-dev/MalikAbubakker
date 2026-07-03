@@ -472,12 +472,6 @@
     "device": "DEV_0_1782878419",
     "sid": "PREMIUMX"
   },
-  "MAFIA": {
-    "password": "1",
-    "expiry": "",
-    "device": "NOT BOUND",
-    "sid": "PREMIUMX"
-  },
   "TRIAL": {
     "password": "1",
     "expiry": "",
@@ -500,6 +494,12 @@
     "password": "TATAAAAA",
     "expiry": "",
     "device": "",
+    "sid": "PREMIUMX"
+  },
+  "ahsan": {
+    "password": "11",
+    "expiry": "",
+    "device": "DEV_0_1783003459",
     "sid": "PREMIUMX"
   }
 }
