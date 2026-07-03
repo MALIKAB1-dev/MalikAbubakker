@@ -481,7 +481,7 @@
   "Sales": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "Not Bound ",
     "sid": "PREMIUM2"
   },
   "DZONIF10": {
