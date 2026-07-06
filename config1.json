@@ -507,5 +507,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUM2"
+  },
+  "Ramazan": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
