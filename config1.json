@@ -525,5 +525,11 @@
     "expiry": "",
     "device": "DEV_0_1783450654",
     "sid": "PREMIUM2"
+  },
+  "Muslim": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
