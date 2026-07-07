@@ -523,7 +523,7 @@
   "Aravida": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1783450654",
     "sid": "PREMIUM2"
   }
 }
