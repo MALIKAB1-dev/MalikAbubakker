@@ -529,7 +529,7 @@
   "Muslim": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1783454161",
     "sid": "PREMIUMX"
   }
 }
