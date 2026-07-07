@@ -519,5 +519,11 @@
     "expiry": "",
     "device": "DEV_0_1783407803",
     "sid": "PREMIUMX"
+  },
+  "Arabida": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
