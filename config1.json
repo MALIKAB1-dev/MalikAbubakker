@@ -26,7 +26,9 @@
     "maintenance_msg": "",
     "announcement": "",
     "announce_type": "toast",
-    "admin_contact2": ""
+    "admin_contact2": "",
+    "webhooks": {},
+    "scripts": []
   },
   "DIABLO": {
     "password": "1",
@@ -549,5 +551,11 @@
     "expiry": "",
     "device": "DEV_0_1783866238",
     "sid": "PREMIUM2"
+  },
+  "SYED": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
