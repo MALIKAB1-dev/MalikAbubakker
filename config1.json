@@ -569,5 +569,11 @@
     "expiry": "",
     "device": "DEV_0_1784721280",
     "sid": "PREMIUMX"
+  },
+  "Reece": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
