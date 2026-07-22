@@ -557,5 +557,11 @@
     "expiry": "",
     "device": "1783426906",
     "sid": "PREMIUMX"
+  },
+  "NXRCPM": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
