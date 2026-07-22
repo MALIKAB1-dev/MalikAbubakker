@@ -563,5 +563,11 @@
     "expiry": "",
     "device": "DEV_0_1784704764",
     "sid": "PREMIUMX"
+  },
+  "SHAH": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
