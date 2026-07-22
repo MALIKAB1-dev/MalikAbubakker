@@ -551,5 +551,11 @@
     "expiry": "",
     "device": "DEV_0_1783866238",
     "sid": "PREMIUM2"
+  },
+  "SHUN": {
+    "password": "X",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
