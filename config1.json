@@ -581,5 +581,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "FABIAN": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
