@@ -575,5 +575,11 @@
     "expiry": "",
     "device": "DEV_0_1784751600",
     "sid": "PREMIUM2"
+  },
+  "MAFIA": {
+    "password": "DARK",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
