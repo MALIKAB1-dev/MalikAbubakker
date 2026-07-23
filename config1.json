@@ -593,5 +593,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "CHAOUI": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
