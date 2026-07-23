@@ -620,8 +620,8 @@
   },
   "DIMA": {
     "password": "1",
-    "expiry": "24/08/2026",
-    "device": "",
+    "expiry": "25/08/2026",
+    "device": "DEV_0_1784836920",
     "sid": "PREMIUMX"
   },
   "CHUCHIN": {
