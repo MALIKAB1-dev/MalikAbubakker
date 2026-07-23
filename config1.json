@@ -599,5 +599,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUM2"
+  },
+  "HARVEY": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
