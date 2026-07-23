@@ -623,5 +623,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUMX"
+  },
+  "CHUCHIN": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
