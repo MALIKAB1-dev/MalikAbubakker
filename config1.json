@@ -611,5 +611,11 @@
     "expiry": "",
     "device": "343",
     "sid": "PREMIUM2"
+  },
+  "OMER": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
