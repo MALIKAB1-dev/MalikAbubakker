@@ -627,7 +627,7 @@
   "CHUCHIN": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1784858008",
     "sid": "PREMIUM2"
   }
 }
