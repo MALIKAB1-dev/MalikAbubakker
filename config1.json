@@ -629,5 +629,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUM2"
+  },
+  "AMIR": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
