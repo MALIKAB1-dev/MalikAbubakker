@@ -635,5 +635,11 @@
     "expiry": "",
     "device": "DEV_0_1784868873",
     "sid": "PREMIUMX"
+  },
+  "VIOLET": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
