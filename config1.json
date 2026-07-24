@@ -639,7 +639,7 @@
   "VIOLET": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1784894567",
     "sid": "PREMIUM2"
   }
 }
