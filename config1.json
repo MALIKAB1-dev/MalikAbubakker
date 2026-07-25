@@ -635,5 +635,11 @@
     "expiry": "",
     "device": "DEV_0_1784912393",
     "sid": "PREMIUM2"
+  },
+  "PETO": {
+    "password": "777",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
