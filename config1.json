@@ -653,5 +653,11 @@
     "expiry": "",
     "device": "DEV_0_1784751600",
     "sid": "PREMIUMX"
+  },
+  "SIXSEVEN": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
