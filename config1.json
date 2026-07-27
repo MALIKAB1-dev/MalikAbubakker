@@ -647,5 +647,11 @@
     "expiry": "",
     "device": "400185e9575055b5",
     "sid": "PREMIUMX"
+  },
+  "SABRINA": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM"
   }
 }
