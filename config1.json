@@ -669,7 +669,7 @@
   "OMARCPM": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "1",
     "sid": "PREMIUMX"
   }
 }
