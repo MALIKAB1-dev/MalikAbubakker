@@ -663,7 +663,7 @@
   "NOEL": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1785425241",
     "sid": "PREMIUMX"
   }
 }
