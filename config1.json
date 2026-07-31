@@ -681,7 +681,7 @@
   "KNIGHT": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1785514131",
     "sid": "PREMIUM2"
   }
 }
