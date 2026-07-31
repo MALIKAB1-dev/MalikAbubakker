@@ -677,5 +677,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUM2"
+  },
+  "MOUMEN": {
+    "password": "2006",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
