@@ -671,5 +671,11 @@
     "expiry": "",
     "device": "1781586042",
     "sid": "PREMIUMX"
+  },
+  "EFE": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
