@@ -689,5 +689,11 @@
     "expiry": "",
     "device": "1776073697",
     "sid": "PREMIUMX"
+  },
+  "HASSAN": {
+    "password": "313",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
