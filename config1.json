@@ -701,5 +701,11 @@
     "expiry": "03/08/2026",
     "device": "",
     "sid": "PREMIUM2"
+  },
+  "SHUN2": {
+    "password": "X",
+    "expiry": "",
+    "device": "DEV_0_1785684558",
+    "sid": "PREMIUMX"
   }
 }
