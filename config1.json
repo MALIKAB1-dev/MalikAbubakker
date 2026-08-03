@@ -711,7 +711,7 @@
   "TRIXZCPM": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1785763665",
     "sid": "PREMIUMX"
   }
 }
