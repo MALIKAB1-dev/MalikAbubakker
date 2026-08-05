@@ -696,12 +696,6 @@
     "device": "DEV_0_1785598109",
     "sid": "PREMIUMX"
   },
-  "TEST123": {
-    "password": "1",
-    "expiry": "03/08/2026",
-    "device": "",
-    "sid": "PREMIUM2"
-  },
   "SHUN2": {
     "password": "X",
     "expiry": "",
