@@ -719,5 +719,11 @@
     "expiry": "",
     "device": "DEV_0_1785849240",
     "sid": "PREMIUMX"
+  },
+  "SIYLASTORE": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
