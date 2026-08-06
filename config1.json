@@ -717,7 +717,7 @@
   "SIYLASTORE": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1785954144",
     "sid": "PREMIUM2"
   }
 }
