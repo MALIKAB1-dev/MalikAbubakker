@@ -725,5 +725,11 @@
     "expiry": "08/10/2026",
     "device": "1770248572",
     "sid": "PREMIUMX"
+  },
+  "Ikki": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
