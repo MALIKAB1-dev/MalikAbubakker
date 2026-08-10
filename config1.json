@@ -737,5 +737,11 @@
     "expiry": "",
     "device": "DEV_0_1786281836",
     "sid": "PREMIUMX"
+  },
+  "Pluto": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
