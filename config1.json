@@ -749,5 +749,11 @@
     "expiry": "",
     "device": "",
     "sid": "PREMIUM2"
+  },
+  "Mike": {
+    "password": "1",
+    "expiry": "15/08/2026",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
