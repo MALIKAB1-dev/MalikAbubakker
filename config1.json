@@ -759,7 +759,7 @@
   "GTS": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1786871768",
     "sid": "PREMIUM2"
   }
 }
