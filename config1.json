@@ -788,7 +788,7 @@
   },
   "JERRY": {
     "password": "1",
-    "expiry": "",
+    "expiry": "26/09/2026",
     "device": "",
     "sid": "PREMIUM2"
   }
