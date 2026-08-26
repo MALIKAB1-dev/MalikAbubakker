@@ -789,7 +789,7 @@
   "JERRY": {
     "password": "1",
     "expiry": "26/09/2026",
-    "device": "",
+    "device": "DEV_0_1787765822",
     "sid": "PREMIUM2"
   }
 }
