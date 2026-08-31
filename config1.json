@@ -797,5 +797,11 @@
     "expiry": "",
     "device": "DEV_0_1787906444",
     "sid": "PREMIUMX"
+  },
+  "RUSLAN": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUMX"
   }
 }
