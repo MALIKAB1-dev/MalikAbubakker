@@ -801,7 +801,7 @@
   "RUSLAN": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "DEV_0_1788158319",
     "sid": "PREMIUMX"
   }
 }
