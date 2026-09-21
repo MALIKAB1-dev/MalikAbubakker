@@ -753,7 +753,7 @@
   "JERRY": {
     "password": "1",
     "expiry": "26/09/2026",
-    "device": "",
+    "device": "1",
     "sid": "PREMIUM2"
   },
   "ZAC": {
