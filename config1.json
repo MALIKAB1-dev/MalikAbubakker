@@ -773,5 +773,11 @@
     "expiry": "",
     "device": "1776297492",
     "sid": "PREMIUMX"
+  },
+  "KING": {
+    "password": "1",
+    "expiry": "",
+    "device": "1776000768",
+    "sid": "PREMIUMX"
   }
 }
