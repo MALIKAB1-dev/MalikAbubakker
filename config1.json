@@ -779,5 +779,11 @@
     "expiry": "",
     "device": "1776000768",
     "sid": "PREMIUMX"
+  },
+  "XYREN": {
+    "password": "1",
+    "expiry": "",
+    "device": "DEV_0_1784743421",
+    "sid": "PREMIUM2"
   }
 }
