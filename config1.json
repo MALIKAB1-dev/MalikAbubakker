@@ -785,5 +785,11 @@
     "expiry": "",
     "device": "DEV_0_1784743421",
     "sid": "PREMIUM2"
+  },
+  "GODZCPM": {
+    "password": "1",
+    "expiry": "",
+    "device": "1791910355",
+    "sid": "PREMIUM2"
   }
 }
