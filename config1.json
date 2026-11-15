@@ -791,5 +791,11 @@
     "expiry": "",
     "device": "1791910355",
     "sid": "PREMIUM2"
+  },
+  "CROW": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "PREMIUM2"
   }
 }
